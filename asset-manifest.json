@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/cats/static/css/main.d29af862.css",
+    "main.js": "/cats/static/js/main.e60236f2.js",
+    "static/media/q.png": "/cats/static/media/q.e56d020cebad71f1d189.png",
+    "static/media/o.png": "/cats/static/media/o.eac0182a94439ebae038.png",
+    "static/media/c.png": "/cats/static/media/c.8a771624e8fe3c8928d2.png",
+    "static/media/a.png": "/cats/static/media/a.a3be8495f349454e56c1.png",
+    "static/media/p.png": "/cats/static/media/p.b22db905fe42acb57b27.png",
+    "static/media/d.png": "/cats/static/media/d.884e006c8725c1dc3741.png",
+    "static/media/m.png": "/cats/static/media/m.c87ab08a339b185a7b73.png",
+    "static/media/g.png": "/cats/static/media/g.1d0776e61833273eccad.png",
+    "static/media/k.png": "/cats/static/media/k.90f3917d93f170a0aab2.png",
+    "static/media/w.png": "/cats/static/media/w.f6ca2968e059802b5c22.png",
+    "static/media/i.png": "/cats/static/media/i.d5bdd7bbde0dbf6a28e6.png",
+    "static/media/u.png": "/cats/static/media/u.7e1c4fc8c6f01907a0b3.png",
+    "static/media/v.png": "/cats/static/media/v.f8b3634ef5bb31b9f32c.png",
+    "static/media/r.png": "/cats/static/media/r.ac1f5f540332c49f9648.png",
+    "static/media/x.png": "/cats/static/media/x.539c7d7bef9600d5dc9f.png",
+    "static/media/z.png": "/cats/static/media/z.8952a4774fca1196251e.png",
+    "static/media/f.png": "/cats/static/media/f.1bd98dc6f46115f1fc93.png",
+    "static/media/e.png": "/cats/static/media/e.ccd972df77716b461d3f.png",
+    "static/media/n.png": "/cats/static/media/n.e8bc89bbeb7672bdb4cc.png",
+    "static/media/h.png": "/cats/static/media/h.0e09382b7c507022e392.png",
+    "static/media/y.png": "/cats/static/media/y.7374dcb9a3d319db3a32.png",
+    "static/media/s.png": "/cats/static/media/s.ae66da1e82e7626bb55d.png",
+    "static/media/b.png": "/cats/static/media/b.7e9ced5c84b190fbe9ae.png",
+    "static/media/l.png": "/cats/static/media/l.abfba3e16deafd1180e7.png",
+    "static/media/j.png": "/cats/static/media/j.942a475bd31ea1b58e43.png",
+    "static/media/t.png": "/cats/static/media/t.e4ca820f59bcb7ffbe15.png",
+    "index.html": "/cats/index.html",
+    "main.d29af862.css.map": "/cats/static/css/main.d29af862.css.map",
+    "main.e60236f2.js.map": "/cats/static/js/main.e60236f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29af862.css",
+    "static/js/main.e60236f2.js"
+  ]
+}
